@@ -25,3 +25,5 @@ Example:
   </body>
 </html>
 ```
+
+The `hex-grid` `getTile()` method and the `hex-tile` `getPosition()` method both require jQuery to be available.
